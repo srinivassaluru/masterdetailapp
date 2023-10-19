@@ -1,0 +1,2 @@
+# masterdetailapp
+Master Detail Application
